@@ -1,2 +1,3 @@
 outputs/*
-data/
+data/*
+__pycache__
