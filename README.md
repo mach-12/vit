@@ -82,7 +82,7 @@ python train.py --model <model_variant> --num_epochs <number_of_epochs> --batch_
 ```
 
 - `model_variant`:  desired ViT variant (`base`, `large`, or `huge`). Default: base.
-- `num_epochs`:  desired Epochs. Default: 1.
+- `num_epochs`:  desired Epochs. Default: 10.
 - `batch_size`:  desired Batch Size (`base`, `large`, or `huge`) Default: 32
 
 ## Torch Model Summary
@@ -90,7 +90,9 @@ python train.py --model <model_variant> --num_epochs <number_of_epochs> --batch_
 
 
 ## Citation
-Citing original authors for the architecture, diagrams used.
+- Citing original authors for the architecture, diagrams used.
 ```
 Dosovitskiy, A., Beyer, L., Kolesnikov, A., Weissenborn, D., Zhai, X., Unterthiner, T., Dehghani, M., Minderer, M., Heigold, G., Gelly, S., Uszkoreit, J., & Houlsby, N. (2021). "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale." arXiv preprint arXiv:2010.11929.
 ```
+
+- Implementation by [mrdbourke](https://github.com/mrdbourke) is reffered.
