@@ -96,3 +96,12 @@ Dosovitskiy, A., Beyer, L., Kolesnikov, A., Weissenborn, D., Zhai, X., Unterthin
 ```
 
 - Implementation by [mrdbourke](https://github.com/mrdbourke) is referred.
+
+## Resources
+
+- [PyTorch Documentation](https://pytorch.org/docs/stable/index.html)
+- [Torchvision Documentation](https://pytorch.org/vision/stable/index.html)
+- [TQDM Documentation](https://tqdm.github.io/)
+- [NumPy Documentation](https://numpy.org/doc/)
+- [Pandas Documentation](https://pandas.pydata.org/docs/)
+- [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
